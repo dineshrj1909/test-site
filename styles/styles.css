@@ -1,0 +1,49 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: "Jura", sans-serif; /* this should be the rest of the output you got from Google fonts */
+  background-color: rgb(255, 255, 255);
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 8px black;
+}
+
+h5 {
+  font-size: 20px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+}
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgb(0, 0, 0);
+  max-width: 750px;
+  padding: 0.8em 1.2em;
+  border: 1px solid rgb(152 103 57);
+  border-radius: 30px 10px;
+}
+
+li {
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
